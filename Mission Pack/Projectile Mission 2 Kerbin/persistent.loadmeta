@@ -1,0 +1,17 @@
+saveMD5 = a19208783fd5e0db4696882e81024a3c
+id = 09994ed8-13fd-44ba-ba13-c91f3c0a259f
+title = Projectile Mission 2 Kerbin
+briefing = 
+author = 
+hardIcon = False
+difficulty = Intermediate
+vesselCount = 1
+nodeCount = 7
+startUT = 0
+missionExpansionVersion = 1.8.1
+steamPublishedFileId = 0
+testModules = TestVesselStageActivated
+testModules = TestVesselSituationLanded
+actionModules = ActionCreateVessel
+actionModules = ActionDialogMessage
+actionModules = ActionMessage
